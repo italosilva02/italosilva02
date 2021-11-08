@@ -2,7 +2,7 @@
 
 ### Olá, mundo! Meu nome é Ítalo Silva e seja bem vindo ao meu perfil👋
 
-
+##
 
 - 🔭 Atualmente estudando POO em JAVA.
 - 🌱 system analysis and development student
