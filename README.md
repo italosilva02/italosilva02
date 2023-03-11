@@ -4,7 +4,7 @@
 
 ##
 
-- 🔭 Atualmente estudando POO em JAVA.
+- 🔭 Atualmente estudando Data Science com Python.
 - 🌱 system analysis and development student
 - 👯 Contate-me no email: italosilva0101@gmail.com ou no linkedin https://www.linkedin.com/in/italo-silva-0288b11a2/
 
