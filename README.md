@@ -75,12 +75,19 @@ Tenho foco profundo na construção de pipelines de dados, Business Intelligence
 <br>
 <br>
 
-## 📊 Analytics Dashboard
+  ## 📊 Analytics Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italosilva02&amp;show_icons=true&amp;title_color=E87A5D&amp;icon_color=E87A5D&amp;text_color=F1D3B2&amp;bg_color=1F1A18&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&amp;layout=compact&amp;langs_count=6&amp;title_color=E87A5D&amp;text_color=F1D3B2&amp;bg_color=1F1A18&amp;hide_border=true" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&title_color=E87A5D&icon_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&langs_count=6&title_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <p>📍 Goiás, Brasil</p>
+  <p><i>"Data is only valuable when transformed into actionable insights."</i></p>
+</div>
 
 <br>
 
