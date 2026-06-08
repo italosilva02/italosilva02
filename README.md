@@ -1,6 +1,6 @@
 <!-- HEADER GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/italosilva02/italosilva02/main/assets/header-lofi.gif" alt="Ítalo Silva Lofi Banner" width="100%" style="border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/italosilva02/italosilva02/main/assets/header-lofi.gif" alt="Ítalo Silva Lofi Banner" width="600" height="375" style="border-radius: 12px;">
 </div>
 
 <br>
@@ -73,15 +73,6 @@ Tenho foco profundo na construção de pipelines de dados, automações robustas
 </div>
 
 <br>
-<br>
-
-## 📊 Analytics Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&title_color=E87A5D&icon_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&langs_count=6&title_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
 <br>
 
 <div align="center">
