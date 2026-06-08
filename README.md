@@ -39,7 +39,7 @@
 
 Atualmente atuo como **Especialista de Dados** na Corteva Agriscience, desenvolvendo soluções analíticas para operações industriais e agrícolas. Minha abordagem une o rigor analítico da Ciência de Dados com a estrutura robusta da Engenharia de Analytics.
 
-Tenho foco profundo na construção de pipelines de dados, Business Intelligence corporativo, governança e Machine Learning, sempre buscando uma arquitetura limpa e entrega de valor tangível para o negócio.
+Tenho foco profundo na construção de pipelines de dados, automações robustas (como a consolidação de arquivos SAP MB51 via Python), Business Intelligence corporativo, governança e Machine Learning, sempre buscando uma arquitetura limpa e entrega de valor tangível para o negócio.
 
 <br>
 
@@ -57,7 +57,7 @@ Tenho foco profundo na construção de pipelines de dados, Business Intelligence
 
 > ### 📈 Corporate Analytics & Governance
 > **Enterprise Data Infrastructure**
-> Liderança técnica na estruturação de dashboards estratégicos para Produção, Comercial, EHS, Recebimento e Faturamento, com abrangência para todas as plantas produtivas. Migração e centralização de 90% dos dados operacionais da companhia para o ambiente corporativo, garantindo governança e rastreabilidade.
+> Liderança técnica na estruturação de dashboards estratégicos para Produção, Comercial, EHS, Recebimento e Faturamento, operando em escala para **todas as plantas produtivas**. Migração e centralização de 90% dos dados operacionais da companhia para o ambiente corporativo, garantindo governança e rastreabilidade.
 > <br><i>Stacks: Power BI, DAX, SQL Server, SharePoint</i>
 
 <br>
@@ -75,18 +75,11 @@ Tenho foco profundo na construção de pipelines de dados, Business Intelligence
 <br>
 <br>
 
-  ## 📊 Analytics Dashboard
+## 📊 Analytics Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&title_color=E87A5D&icon_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&langs_count=6&title_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <p>📍 Goiás, Brasil</p>
-  <p><i>"Data is only valuable when transformed into actionable insights."</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&title_color=E87A5D&icon_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&langs_count=6&title_color=E87A5D&text_color=F1D3B2&bg_color=1F1A18&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 <br>
