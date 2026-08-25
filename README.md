@@ -11,7 +11,7 @@
 
 <br/>
 
-<samp>Building data solutions that turn complex information into strategic decisions.</samp>
+Building data solutions that turn complex information into strategic decisions.
 
 <br/>
 <br/>
@@ -31,11 +31,11 @@
 
 ## &nbsp;`01` &nbsp;About
 
-> Especialista de Dados na **Corteva Agriscience**, atuando com Analytics Engineering,
-> Business Intelligence, Governança de Dados e Machine Learning.
->
-> Construo pipelines analíticos, automações e modelos preditivos para ambientes
-> corporativos de larga escala — do dado bruto à decisão.
+Especialista de Dados na **Corteva Agriscience**, atuando com Analytics Engineering, Business Intelligence, Governança de Dados e Machine Learning.
+
+Construo pipelines analíticos, automações e modelos preditivos para ambientes corporativos de larga escala — **do dado bruto à decisão**.
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:140F0D,50:5C3A2B,100:140F0D&height=1&section=header" width="80%" alt=""/>
@@ -45,48 +45,73 @@
 
 ## &nbsp;`02` &nbsp;Selected Work
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="46%" valign="top">
+<br/>
 
-**Corn Leafhopper Forecasting**
+### 🌽 &nbsp;Corn Leafhopper Forecasting
 
-Machine Learning aplicado ao agronegócio — XGBoost, Random Forest e LSTM para previsão populacional da cigarrinha-do-milho.
+Machine Learning aplicado ao agronegócio.
 
-`XGBoost` `LSTM` `Time Series`
+XGBoost, Random Forest e LSTM para previsão populacional da cigarrinha-do-milho.
 
+`XGBoost` &nbsp;`LSTM` &nbsp;`Time Series`
+
+<br/>
 </td>
-<td width="50%" valign="top">
+<td width="8%"></td>
+<td width="46%" valign="top">
+<br/>
 
-**Customer Churn Prediction**
+### 📉 &nbsp;Customer Churn Prediction
 
-Pipeline completo de ML: feature engineering, balanceamento de classes e modelagem preditiva end-to-end.
+Pipeline completo de Machine Learning.
 
-`Scikit-Learn` `SMOTE` `Pipelines`
+Feature engineering, balanceamento de classes e modelagem preditiva end-to-end.
 
+`Scikit-Learn` &nbsp;`SMOTE` &nbsp;`Pipelines`
+
+<br/>
 </td>
 </tr>
+
+<tr><td colspan="3"><br/></td></tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="46%" valign="top">
+<br/>
 
-**Corporate Analytics**
+### 📊 &nbsp;Corporate Analytics
 
-Dashboards executivos e indicadores estratégicos para operações industriais e comerciais.
+Inteligência para a operação.
 
-`Power BI` `DAX` `Modelagem`
+Dashboards executivos e indicadores estratégicos para áreas industriais e comerciais.
 
+`Power BI` &nbsp;`DAX` &nbsp;`Modelagem`
+
+<br/>
 </td>
-<td width="50%" valign="top">
+<td width="8%"></td>
+<td width="46%" valign="top">
+<br/>
 
-**Data Governance & Migration**
+### 🗂️ &nbsp;Data Governance & Migration
 
-Centralização e governança de ~90% dos dados operacionais corporativos.
+Fundação de dados corporativa.
 
-`Databricks` `SQL` `Lakehouse`
+Centralização e governança de aproximadamente 90% dos dados operacionais.
 
+`Databricks` &nbsp;`SQL` &nbsp;`Lakehouse`
+
+<br/>
 </td>
 </tr>
 </table>
+
+<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:140F0D,50:5C3A2B,100:140F0D&height=1&section=header" width="80%" alt=""/>
@@ -133,17 +158,22 @@ Centralização e governança de ~90% dos dados operacionais corporativos.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&bg_color=0D0A09&text_color=C9BCA9&icon_color=F2734A&title_color=F2734A&ring_color=F2734A"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=0D0A09&text_color=C9BCA9&title_color=F2734A"/>
+<a href="https://github.com/italosilva02">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D0A09&title_color=F2734A&text_color=C9BCA9&icon_color=F2734A"/>
+</a>
+<a href="https://github.com/italosilva02">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&hide_border=true&langs_count=6&bg_color=0D0A09&title_color=F2734A&text_color=C9BCA9"/>
+</a>
 
 <br/>
+<br/>
 
-<img height="165" src="https://streak-stats.demolab.com/?user=italosilva02&hide_border=true&background=0D0A09&stroke=241E1B&ring=F2734A&fire=F2734A&currStreakLabel=F2734A&sideLabels=C9BCA9&currStreakNum=E8D9C5&sideNums=E8D9C5&dates=8A5A44"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=italosilva02&hide_border=true&background=0D0A09&stroke=241E1B&ring=F2734A&fire=F2734A&currStreakLabel=F2734A&sideLabels=C9BCA9&currStreakNum=E8D9C5&sideNums=E8D9C5&dates=8A5A44"/>
 
 <br/>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=italosilva02&hide_border=true&hide_title=true&bg_color=0D0A09&color=F2734A&line=F2734A&point=E8D9C5&area=true&area_color=3B1F14&custom_title=Contribution%20Graph" width="98%"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=italosilva02&hide_border=true&hide_title=true&bg_color=0D0A09&color=F2734A&line=F2734A&point=E8D9C5&area=true&area_color=3B1F14"/>
 
 </div>
 
@@ -151,10 +181,9 @@ Centralização e governança de ~90% dos dados operacionais corporativos.
 
 <div align="center">
 
-<!-- Snake animation — requires the workflow in .github/workflows/snake.yml -->
+<!-- Snake animation — requires .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italosilva02/italosilva02/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italosilva02/italosilva02/output/snake.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/italosilva02/italosilva02/output/snake.svg" width="98%"/>
 </picture>
 
@@ -170,31 +199,50 @@ Centralização e governança de ~90% dos dados operacionais corporativos.
 
 ## &nbsp;`05` &nbsp;Currently
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="31%" valign="top" align="center">
+<br/>
 
 **Learning**
 
+<br/>
+
 MLOps · Feature Stores
+<br/>
 Model Monitoring
 
+<br/>
 </td>
-<td width="33%" valign="top" align="center">
+<td width="3%"></td>
+<td width="31%" valign="top" align="center">
+<br/>
 
 **Building**
 
+<br/>
+
 Pipelines analíticos
+<br/>
 Modelos preditivos para agro
 
+<br/>
 </td>
-<td width="33%" valign="top" align="center">
+<td width="3%"></td>
+<td width="31%" valign="top" align="center">
+<br/>
 
 **Studying**
 
+<br/>
+
 MBA Data Science & Analytics
+<br/>
 USP/ESALQ
 
+<br/>
 </td>
 </tr>
 </table>
@@ -208,7 +256,7 @@ USP/ESALQ
 <br/>
 <br/>
 
-<samp>coffee · books · swimming · photography</samp>
+coffee · books · swimming · photography
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0A09,60:8A4A2E,100:F2734A&height=120&section=footer" width="100%" alt=""/>
 
