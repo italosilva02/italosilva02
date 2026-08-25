@@ -31,7 +31,7 @@ Building data solutions that turn complex information into strategic decisions.
 
 ## &nbsp;`01` &nbsp;About
 
-Especialista de Dados na **Corteva Agriscience**, atuando com Analytics Engineering, Business Intelligence, Governança de Dados e Machine Learning.
+Especialista de Dados com atuação em Analytics Engineering, Business Intelligence, Governança de Dados e Machine Learning.
 
 Construo pipelines analíticos, automações e modelos preditivos para ambientes corporativos de larga escala — **do dado bruto à decisão**.
 
@@ -154,50 +154,7 @@ Centralização e governança de aproximadamente 90% dos dados operacionais.
 
 <br/>
 
-## &nbsp;`04` &nbsp;Stats
-
-<div align="center">
-
-<a href="https://github.com/italosilva02">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D0A09&title_color=F2734A&text_color=C9BCA9&icon_color=F2734A"/>
-</a>
-<a href="https://github.com/italosilva02">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&hide_border=true&langs_count=6&bg_color=0D0A09&title_color=F2734A&text_color=C9BCA9"/>
-</a>
-
-<br/>
-<br/>
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=italosilva02&hide_border=true&background=0D0A09&stroke=241E1B&ring=F2734A&fire=F2734A&currStreakLabel=F2734A&sideLabels=C9BCA9&currStreakNum=E8D9C5&sideNums=E8D9C5&dates=8A5A44"/>
-
-<br/>
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=italosilva02&hide_border=true&hide_title=true&bg_color=0D0A09&color=F2734A&line=F2734A&point=E8D9C5&area=true&area_color=3B1F14"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Snake animation — requires .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italosilva02/italosilva02/output/snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/italosilva02/italosilva02/output/snake.svg" width="98%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:140F0D,50:5C3A2B,100:140F0D&height=1&section=header" width="80%" alt=""/>
-</div>
-
-<br/>
-
-## &nbsp;`05` &nbsp;Currently
+## &nbsp;`04` &nbsp;Currently
 
 <br/>
 
