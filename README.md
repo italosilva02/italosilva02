@@ -30,11 +30,18 @@
 
 <br/>
 
-## &nbsp;`01` &nbsp;About
+##  `01`  About
 
-Especialista de Dados com atuação em **Analytics Engineering**, **Business Intelligence**, **Governança de Dados** e **Machine Learning**.
+```text
+Data professional turning raw data into intelligent solutions.
+```
 
-Construo pipelines analíticos, automações e modelos preditivos para ambientes corporativos de larga escala — **do dado bruto à decisão**.
+Atuo na interseção entre **Data Engineering, Analytics, Business Intelligence e Machine Learning**.
+
+Construo **pipelines de dados, processos de ETL/ELT, automações, modelos analíticos, dashboards e soluções preditivas** — sempre buscando transformar dados complexos em informação confiável e decisões melhores.
+
+**Stack:** Python • SQL • Power BI • DAX • Databricks • Pandas • ETL/ELT • Machine Learning
+
 
 ```python
 italo = {
