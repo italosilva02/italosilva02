@@ -136,13 +136,7 @@ italo = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=F2734A&icon_color=F2734A&text_color=D99A5B&border_color=5C3A2B&hide_border=false&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&theme=transparent&title_color=F2734A&text_color=D99A5B&border_color=5C3A2B&langs_count=6" height="165"/>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/F2734A/italosilva02" alt="GitHub Contributions Chart" width="720"/>
+<img src="https://ghchart.rshah.org/39d353/italosilva02" alt="GitHub Contributions Chart" width="720"/>
 
 </div>
 
