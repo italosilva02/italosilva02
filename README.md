@@ -45,15 +45,7 @@ italo = {
 }
 ```
 
-<div align="center">
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&theme=transparent&title_color=F2734A&icon_color=F2734A&text_color=D99A5B&border_color=5C3A2B&hide_border=false&rank_icon=github" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&theme=transparent&title_color=F2734A&text_color=D99A5B&border_color=5C3A2B&langs_count=6" height="160"/>
-
-</div>
 
 <br/>
 
@@ -144,11 +136,13 @@ italo = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=italosilva02&theme=transparent&hide_border=false&border=5C3A2B&ring=F2734A&fire=F2734A&currStreakLabel=D99A5B&sideLabels=D99A5B&dates=8A5A44&currStreakNum=F2734A&sideNums=D99A5B" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=italosilva02&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=F2734A&icon_color=F2734A&text_color=D99A5B&border_color=5C3A2B&hide_border=false&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosilva02&layout=compact&theme=transparent&title_color=F2734A&text_color=D99A5B&border_color=5C3A2B&langs_count=6" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=italosilva02&bg_color=140F0D&color=D99A5B&line=F2734A&point=F2734A&area=true&area_color=5C3A2B&border_color=5C3A2B&hide_border=false" alt="Activity Graph"/>
+<img src="https://ghchart.rshah.org/F2734A/italosilva02" alt="GitHub Contributions Chart" width="720"/>
 
 </div>
 
